@@ -1,1 +1,4 @@
-# 4.4
+Our website is for a company called Chris and Donnie Farrier Service. They have services that include putting a new set of horseshoes on horses, and maintaining them. On the website, you will find a short history about the company and its owners, how to contact them, why you should choose them, their prices, and two videos.
+
+Our website design is a light grey background that fades into a darker grey as you reach the bottom. The title font is Pattaya and the color is a bright blue with the content font being Cormorant Infant with the color of white. There are also some white details on the titles. The tabs have a white font and a blue border. We decided on those fonts and colors based on what represented the company best and what looks professional, but also pleasing to the eye. We chose this company to be our client because we felt like it was a unique topic and we both love horses.  
+
